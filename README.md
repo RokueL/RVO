@@ -1,2 +1,2 @@
 # ECS
-ECS연구
+RVO연구
